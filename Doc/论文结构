@@ -1,134 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
-    <mxGraphModel dx="2318.5" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1631" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
-        <mxCell id="3a17f1ce550125da-1" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;dashed=1;" value="Software Control" vertex="1">
-          <mxGeometry height="80" width="200" x="1030" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-13" edge="1" parent="1" source="3a17f1ce550125da-2" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" target="3a17f1ce550125da-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-14" edge="1" parent="1" source="3a17f1ce550125da-2" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" target="3a17f1ce550125da-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-15" edge="1" parent="1" source="3a17f1ce550125da-2" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" target="3a17f1ce550125da-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-16" edge="1" parent="1" source="3a17f1ce550125da-2" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" target="3a17f1ce550125da-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-17" edge="1" parent="1" source="3a17f1ce550125da-10" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;" target="3a17f1ce550125da-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="794" y="1600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-2" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="Custom switch Matrix&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(switches, couplers, mixer, amps, attenu, splitters)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="280" width="170" x="707" y="1786" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-4" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="Spectrum Analyzer" vertex="1">
-          <mxGeometry height="60" width="120" x="1210" y="940" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-5" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="Network Analyzer" vertex="1">
-          <mxGeometry height="60" width="120" x="1210" y="1020" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-6" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="Power Meter" vertex="1">
-          <mxGeometry height="60" width="120" x="1210" y="1100" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-7" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="Freq. Count" vertex="1">
-          <mxGeometry height="60" width="120" x="1210" y="1180" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-21" edge="1" parent="1" source="3a17f1ce550125da-9" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" target="3a17f1ce550125da-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-9" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="ARB / Mod Source" vertex="1">
-          <mxGeometry height="60" width="120" x="484" y="1480" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-10" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="DUT" vertex="1">
-          <mxGeometry height="120" width="145" x="686.5" y="1620" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-18" edge="1" parent="1" source="3a17f1ce550125da-11" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" target="3a17f1ce550125da-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-11" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="DC Power Supplies" vertex="1">
-          <mxGeometry height="60" width="120" x="484" y="1650" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-22" edge="1" parent="1" source="3a17f1ce550125da-10" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;" target="3a17f1ce550125da-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="814" y="1600" />
-              <mxPoint x="794" y="1600" />
-            </Array>
-            <mxPoint x="824" y="1630" as="sourcePoint" />
-            <mxPoint x="824" y="1590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-23" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="774" y="1600" />
-              <mxPoint x="774" y="1600" />
-            </Array>
-            <mxPoint x="774" y="1620" as="sourcePoint" />
-            <mxPoint x="774" y="1580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-24" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="744" y="1600" />
-              <mxPoint x="774" y="1610" />
-            </Array>
-            <mxPoint x="744" y="1580" as="sourcePoint" />
-            <mxPoint x="744" y="1620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-25" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="724" y="1600" />
-              <mxPoint x="754" y="1610" />
-            </Array>
-            <mxPoint x="724" y="1580" as="sourcePoint" />
-            <mxPoint x="724" y="1620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-26" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="704" y="1600" />
-              <mxPoint x="734" y="1610" />
-            </Array>
-            <mxPoint x="704" y="1580" as="sourcePoint" />
-            <mxPoint x="704" y="1620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-1" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=none;strokeColor=default;strokeWidth=3;dashed=1;gradientColor=none;dashPattern=1 1;" value="Software Control" vertex="1">
-          <mxGeometry height="360" width="760" x="-276" y="320" as="geometry" />
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-1" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=none;strokeColor=default;strokeWidth=3;dashed=1;gradientColor=none;dashPattern=1 1;" value="" vertex="1">
+          <mxGeometry height="260" width="610" x="555" y="300" as="geometry" />
         </mxCell>
         <mxCell id="Q1vYSSJTuXfoMBjxNfcG-3" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;关键概念（国产游戏与国产游戏出海、出海版本与版本治理稳定性指标、性能指标、本地化适配质量、质量门禁）&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="120" width="200" x="760" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-5" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="Vector Signal Generator" vertex="1">
-          <mxGeometry height="160" width="200" x="520" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-6" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="Vector Signal Generator" vertex="1">
-          <mxGeometry height="160" width="200" x="1000" y="480" as="geometry" />
-        </mxCell>
-        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-7" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="Vector Signal Generator" vertex="1">
-          <mxGeometry height="80" width="200" x="776.5" y="950" as="geometry" />
+          <mxGeometry height="120" width="200" x="631.5" y="410" as="geometry" />
         </mxCell>
         <mxCell id="Q1vYSSJTuXfoMBjxNfcG-8" parent="1" style="whiteSpace=wrap;html=1;shadow=0;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;第1章 绪论&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="200" x="760" y="200" as="geometry" />
+          <mxGeometry height="60" width="280" x="720" y="200" as="geometry" />
         </mxCell>
         <mxCell id="Q1vYSSJTuXfoMBjxNfcG-9" parent="1" style="whiteSpace=wrap;html=1;shadow=0;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;第2章 背景知识&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="200" x="760" y="320" as="geometry" />
+          <mxGeometry height="60" width="280" x="720" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-10" parent="1" style="whiteSpace=wrap;html=1;shadow=0;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;第2章 背景知识&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="200" x="550" y="760" as="geometry" />
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-11" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;软件工程质量管理理论&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="877" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-17" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;项目概况与质量管理现状&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="520" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-18" parent="1" style="whiteSpace=wrap;html=1;shadow=0;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;第3章 T公司国产游戏出海项目质量管理现状与问题分析&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="720" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-19" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;国产游戏出海项目质量管理问题识别&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="760" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-20" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;国产游戏出海项目质量管理的问题分析&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="1000" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-21" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;改进目标与设计措施&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="631.5" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-22" parent="1" style="whiteSpace=wrap;html=1;shadow=0;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;第4章 国产游戏出海项目质量管理改进方案设计&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="710" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-24" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;基于模糊层次分析法的项目质量改进实施措施优先级评价&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="870" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-25" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;优化措施安排&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="658" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-26" parent="1" style="whiteSpace=wrap;html=1;shadow=0;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;第5章 国产游戏出海项目质量管理优化实施与效果验证&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="720" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-27" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;" value="&lt;font color=&quot;#000000&quot; face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;优化措施实施过程&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="895" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-28" parent="1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;" value="&lt;font color=&quot;#212121&quot; face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;效果验证设计与结果分析&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="1120" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1vYSSJTuXfoMBjxNfcG-30" parent="1" style="whiteSpace=wrap;html=1;shadow=0;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;第6章 结论与展望&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="680" y="1510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
